@@ -13,4 +13,4 @@ six==1.10.0
 slacker==0.9.25
 slacksocket==0.7
 websocket-client==0.37.0
-Werkzeug==0.11.11
+Werkzeug>=0.15.3
